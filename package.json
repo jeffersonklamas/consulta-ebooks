@@ -1,0 +1,16 @@
+{
+  "name": "consultalivros",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante o **Hiring-Coders** da **Gama-Academy**, o propósito é simular uma requisição de um usuário para consulta de livros disponíveis em um banco de dados.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Jefferson Klamas",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {}
+}
