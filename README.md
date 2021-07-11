@@ -20,6 +20,10 @@ Este comando cria um arquivo `package.json` com as informações do projeto, nes
 
 Ao rodar pela primeira vez o comando `npm start` o mesmo irá criar a estrutura do projeto, uma série de perguntas sobre o mesmo.
 
+### Resultado após execução via terminal.
+
+![Consulta](img/Consulta.png)
+
 ### Bibliotecas utilizadas
 
 Esta simula a entrada e solicitação do usuário, cria uma pasta `node_modules` com seus recursos e dependências necessárias para rodar o projeto, e cria também um arquivo `package-lock.json`
